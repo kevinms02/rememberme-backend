@@ -1,0 +1,18 @@
+name: rememberme_app
+environment:
+  sdk: '^3.8.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  nfc_manager: ^3.3.0
+  image_picker: ^1.0.4
+  url_launcher: ^6.2.1
+  cupertino_icons: ^1.0.2
+  http: ^1.2.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
